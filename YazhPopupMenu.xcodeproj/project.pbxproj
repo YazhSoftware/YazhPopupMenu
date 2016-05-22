@@ -11,7 +11,7 @@
 		1D05F15F61129589F827A5FD35377D77 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 484A32FEAEE23639B86B21C1980C489C /* main.m */; };
 		360C6E0697AD9AF2CEB93B6D768CCF73 /* DemoMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = C93E8DD0BF6287BE44B5B2725773D8AD /* DemoMenu.m */; };
 		872A8C405C57FBCDC73AE5EEED7E438D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F01ED7DA5050329805477F0E43AB729B /* Main.storyboard */; };
-		9489B56F1CF1749000FD6C9B /* YazhPopupMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = 9489B56C1CF1749000FD6C9B /* YazhPopupMenu.h */; };
+		9489B56F1CF1749000FD6C9B /* YazhPopupMenu.h in Headers */ = {isa = PBXBuildFile; fileRef = 9489B56C1CF1749000FD6C9B /* YazhPopupMenu.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		9489B5701CF1749000FD6C9B /* YazhPopupMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 9489B56D1CF1749000FD6C9B /* YazhPopupMenu.m */; };
 		BCAA8BC1F61811DFB83D5EFFCA5FED57 /* DemoMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1439188840E4CC01C4B2A271D7B1D237 /* DemoMenu.xib */; };
 		C7AD0E445891771DA6171F4CB350A1A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40A5191D60A4826C7AFE9230ECE349C6 /* Assets.xcassets */; };
