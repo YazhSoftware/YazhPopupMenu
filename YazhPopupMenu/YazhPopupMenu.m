@@ -36,7 +36,7 @@ NSString * const YazhPopupMenuButtonClickedNotification = @"YazhPopupMenuButtonC
         
         @try
         {
-            UINib *nib = [UINib nibWithNibName:className bundle:nil];
+            UINib *nib = [UINib nibWithNibName:className.pathExtension bundle:nil];
             _singleton = [nib instantiateWithOwner:nil options:nil].firstObject;
             _singleton.userInteractionEnabled = YES;
         }
